@@ -51,7 +51,9 @@ public class CiudadanoController {
 			} catch (Exception e) {
 				return null;
 			}
-		
 	}
-	
+		
+		
+		
+
 }

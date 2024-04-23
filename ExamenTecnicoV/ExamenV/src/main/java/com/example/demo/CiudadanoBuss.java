@@ -29,8 +29,7 @@ public class CiudadanoBuss {
 			Respuesta.setpMensaje("Fallo en eliminar");
 			return Respuesta;
 		}
-		
-		
+			
 	}
 
 	public Base guardar(Ciudadano datos) {
@@ -54,4 +53,5 @@ public class CiudadanoBuss {
 		
 	}
 
+	
 }
